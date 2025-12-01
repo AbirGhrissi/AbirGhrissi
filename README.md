@@ -9,14 +9,10 @@ Passionate about web and mobile development.
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AbirGhrissi&show_icons=true&theme=radical)
 
 ### 🔥 Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbirGhrissi&theme=radical)
 
-### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirGhrissi&layout=compact&theme=radical)
 
 ### 🌐 Connect with me
 - 💼 LinkedIn: https://www.linkedin.com/in/abir-ghrissi-7101a01a1/
