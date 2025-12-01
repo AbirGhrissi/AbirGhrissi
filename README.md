@@ -22,4 +22,3 @@ Passionate about web and mobile development.
 - 💼 LinkedIn: https://www.linkedin.com/in/abir-ghrissi-7101a01a1/
 - 📧 Email: abirghrissi83@gmail.com
 
-![snake gif](https://github.com/AbirGhrissi/AbirGhrissi/blob/output/github-contribution-grid-snake.svg)
