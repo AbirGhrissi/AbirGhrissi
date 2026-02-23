@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 About Me  
-Full-Stack Developer from Tunisia 🇹🇳, with strong experience in **web, mobile, IoT, AI, and microservices**.  
-I enjoy building innovative, high-quality applications using modern technologies such as **React, Node.js, Flutter, Spring Boot, .NET Core**, and integrating smart features like **AI, NLP, dashboards, and data visualization**.
+Full-Stack Developer from Tunisia 🇹🇳, with strong experience in **web, mobile, AI, and microservices**.  
+I enjoy building innovative, high-quality applications using modern technologies such as **React, Node.js, Flutter, Spring Boot, .NET Core**, and integrating smart features like **AI, NLP**.
 
 
 ---
