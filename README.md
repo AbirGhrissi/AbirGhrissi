@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abir Ghrissi  
-### **Full-Stack Developer | IoT & Data Visualization | AI & Mobile Development**  
+### **Full-Stack Developer | AI & Mobile Development**  
 💻 Passionate about building modern, scalable and intelligent applications.
 
 ---
